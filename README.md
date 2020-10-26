@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had syntax errors with segue variable names, but by chasing it down I got a better understanding of how data is passed through navigation.
 
 ---
 
@@ -43,3 +43,5 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/6XHwnEM7OM.gif" width=250><br>
 
 ### Notes
+
+Slight dificulties due to new Xcode version.
